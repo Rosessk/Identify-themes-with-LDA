@@ -1,7 +1,7 @@
 # Identify-themes-with-LDA
 
 I used LDA to identify topics in which people appear to be optimistic or joyful.
-There are main 4 steps:
+There are 4 main steps:
 
 1. Preprocessing
 I applied preprocessing and used the TfidfModel class to compute TF-IDF vectors, instead of using a simple bag-of-words approach.
